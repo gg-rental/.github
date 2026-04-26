@@ -283,9 +283,9 @@ Rental data may become outdated quickly. Always verify listing details, price, a
 
 ## Author
 
-Created by **Andrey Golda** and **Ismail Gadzhiev**.
+Created by **Ismail Gadzhiev** and **Andrey Golda**.
 
-GitHub: [@a-golda](https://github.com/a-golda), [@oldhroft](https://github.com/oldhroft)
+GitHub: [@oldhroft](https://github.com/oldhroft), [@a-golda](https://github.com/a-golda).
 
 ---
 
